@@ -1,0 +1,99 @@
+
+.container{
+    display: flex;
+    text-align: center;
+    color: white;
+    position: relative;
+  
+}
+#horn{ 
+  position: absolute;
+  width: 15%;
+   margin-left: -9%; 
+
+}
+.container h4{
+    color: rgb(245, 131, 131);
+}
+.container h5{
+    margin-top: 60%;
+    color: gray;
+    font-size: 20px;
+}
+.container h1{
+    font-size: 60px;
+    
+
+}
+.icon-top{
+font-size: 22px;
+    margin-left: 85%;
+    margin-top: 39px;
+    display: flex;
+    gap: 19%;}
+  
+.icon-top a{
+    text-decoration: none;
+    color: white;
+
+  } 
+   
+
+
+.accra{
+    background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(image/accra.jpg);
+    width: 85vh;
+    height: 98vh;
+
+
+}
+.nairobi{
+    background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(image/nairobi.jpg);
+width: 75vh;
+background-repeat: no-repeat;
+
+}
+.zanzibar{
+    background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(image/zanzibar.jpg);
+width: 75vh;
+position: relative;
+
+}
+
+nav{
+        margin-top: -8.5%;
+       margin-left: 29%;
+        background-color:  black;
+        width: 40%;
+        height: 60px;
+    font-size: 100%;
+    border-radius: 55px;
+    position: fixed;
+    padding-top: 1.5%;
+    padding-left: 2%;
+    padding-right: 1%;
+    }
+
+.navigate a{
+    text-decoration: none;
+    color: white;
+    margin: 2%;
+}
+#reserve{
+  background-color: gray;
+  border-radius: 9cqb;
+  padding: 2% 3% 3%;
+}
+.navigate a:hover{
+    background-color: rgb(105, 100, 100);}
+
+#reserve:hover{
+    background-color: white;
+    color: black;
+}
+#icon-bottom{
+    color:white;
+    position: fixed;
+    margin-left: 62%;
+   font-size: 250%;
+}

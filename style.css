@@ -1,0 +1,156 @@
+body{
+    overflow: hidden;
+
+
+}
+.icon-top{
+    font-size: 25px;
+    display: flex;
+    gap:29%;
+  position: fixed;
+     position: absolute;
+    color:white;
+    margin-left: 95%;
+    margin-top: -31%;
+ 
+      
+}
+.icon-top a{
+    text-decoration: none;
+    color: white;
+}
+
+#horn{
+    margin-top: -30%;
+    margin-left: 43%;
+    position:absolute;
+    width: 14%;
+
+}
+#title{
+    color: white;
+    margin:0 42% 0 40%;
+font-size: 690%;
+
+
+}
+#icon-bottom{
+    color:white;
+    position: fixed;
+    margin-left: 23%;
+   font-size: 290%;
+    
+   
+}
+nav{
+    position: fixed;
+    overflow: hidden;
+    margin-top: -9.5%;
+   margin-left: 29%;
+    background-color:  black;
+    height: 55px;
+    width: 40%;
+font-size: 100%;
+border-radius: 55px;
+position: fixed;
+padding-top: 1.5%;
+padding-left: 2%;
+display: flex;
+justify-content: space-between;
+
+} 
+.navigate a{
+    text-decoration: none;
+    color: white;
+    height: 30px;
+    margin: 1%;
+}
+.navigate a:hover{
+    background-color:gray;
+    
+}
+#reserve{
+    background-color:gray;
+    border-radius: 9cqb;
+    height: 40px;
+    width: 120px;
+    padding-top: 2.2%; 
+    padding-left: 2%; 
+    margin: -2%;
+    
+   
+}
+#reserve:hover{
+    background-color: white;
+    color: black;
+
+}
+.container {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    filter: brightness(0.8);
+}
+
+.home{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    animation: fade 15s infinite;
+    background-position: center;
+    opacity: 0;
+  
+}
+.container h1{
+    text-align: center;
+    margin-top: 19%;
+    color: gray;
+    font-size:850%;
+}
+
+
+.welcome {
+    animation-delay: 0s;
+    background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0, 0, 0, 0.8)),url(https://cdn.prod.website-files.com/65aa1f78e2380ad0548de50d/65c34fee7c31fcb2f8c3700b_001-p-2000.jpg);
+    
+}
+
+.discover {
+    animation-delay: 5s;
+    background-image: url(https://cdn.prod.website-files.com/65aa1f78e2380ad0548de50d/65e5b8b549a7aac5dba0e7d3_ankole_kilimani_nightlife.jpg);
+}
+
+.exprience {
+    animation-delay: 10s;
+    background-image:linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)), url(https://cdn.prod.website-files.com/65aa1f78e2380ad0548de50d/65c5f9644676e29dddf08c65_ankolegrill_t-bone-steak-2024-1.jpg);
+}
+
+.taste {
+    animation-delay: 15s;
+    background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(https://cdn.prod.website-files.com/65aa1f78e2380ad0548de50d/65c3b0c67153d0056443f31e_ankolegrill_escobar1.jpg);
+}
+
+.savour {
+    animation-delay: 20s;
+    background-image:linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)), url(https://cdn.prod.website-files.com/65aa1f78e2380ad0548de50d/65cb61d8c46dc657819e1cc2_ankolegrill_slider.jpg);
+}
+
+@keyframes fade {
+
+    0%,
+    100% {
+        opacity: 0;
+    }
+
+    20%,
+    40% {
+        opacity: 1;
+    }
+
+    60%,
+    100% {
+        opacity: 0;
+    }
+}

@@ -1,0 +1,107 @@
+
+.menu{
+    display: flex;
+    font-size: 120%;
+overflow: hidden;
+}
+#horn{
+   width: 12%;
+    margin:80px 70%;
+    margin-left: 44%;
+    position: absolute;
+    
+}
+.discover{
+    
+    background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(https://cdn.prod.website-files.com/65aa1f78e2380ad0548de50d/65e5a29a2a2b1c4a493fff75_ankolegrill_Kilimani-Nights.jpg);
+    width: 1000px;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+.karibu{
+    width:1000px;
+    height: 950px;
+    background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(https://cdn.prod.website-files.com/65aa1f78e2380ad0548de50d/65c34fee7c31fcb2f8c3700b_001-p-2000.jpg);
+}
+.menu h3{
+    text-align: center;
+    color:brown;
+    margin-top: 39%;
+    font-size: 140%;
+   
+}
+.menu h1{
+    text-align: center;
+    color: white;
+    font-size: 250%;
+
+}
+.menu p{
+    text-align: center;
+    color: white;
+    
+}
+#icon-bottom{
+    margin-left: -5%;
+    position: absolute;
+    margin-top: 44%;
+    font-size: 50px;
+    text-align:right;
+   color: white;
+}
+.icon-top{
+    font-size: 25px;
+    position: absolute;
+     margin-top: 2%; 
+    margin-left: 45%;
+    display: flex;
+    gap: 23%;
+   
+}
+.icon-top a{
+color: white;
+}
+.navigate{
+    position: absolute;
+    margin-top: 43%;
+    margin-left:29% ;
+    font-size: 90%;
+    background-color: black;
+    padding-left: 40px;
+    padding-top: 30px;
+    border-radius: 9cqb ;
+    width: 40%;
+    height: 50px;
+    
+}
+#reserve{
+    background-color: gray;
+    border-radius: 9cqb;
+   padding: 2% 2%;
+}
+#reserve:hover{
+    background-color: white;
+    color: black;
+}
+.navigate a{
+    text-decoration: none;
+    color: white;
+    margin: 2%;
+   
+   
+    
+
+}
+
+.navigate a:hover{
+    background-color: rgb(19, 16, 16);
+
+}
+#menu-link{
+    text-decoration: none;
+    color: white;
+}
+#discover-link{
+    text-decoration: none;
+    color: white;
+}

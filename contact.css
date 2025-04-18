@@ -1,0 +1,89 @@
+
+body{
+    overflow: hidden;
+    background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(image/house.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.container{
+    display: flex;
+    margin-left: 15%;
+    margin-top: 2%;
+    line-height: 40px;
+    color: white;
+    
+}
+.icon-top{
+    margin-top: 15px;
+    font-size:25px;
+    display: flex;
+         gap: 58%;
+        position: absolute; 
+      margin-left: 90%; 
+    }
+.icon-top a{
+    text-decoration: none;
+    color: white;
+}
+.navigate{
+  margin-top: 5%;
+margin-left: 29%;
+background-color:  black;
+ height: 60px;
+width: 40%;
+border-radius: 55px;
+position: fixed;
+padding-top: 2%;
+
+ }
+ #horn{
+    margin-top: 50px;
+    margin-left: 46%;
+    width: 195px;
+ } 
+.navigate a{
+        text-decoration: none;
+        color: white;
+        margin: 2%;
+    }
+.navigate a:hover{
+        background-color:gray;
+        
+    }
+#reserve{
+        border-radius: 9cqb;
+     background-color: gray;
+     padding:3% 3% 2.5% 3%;
+     
+     
+    }
+#reserve:hover{
+    background-color: white;
+    color: black;
+}
+#icon-bottom{
+    /* margin-top: -1%; */
+    margin-left: 90%;
+    color:white;
+   font-size: 260%;
+   margin-top: 4%;
+}
+.kitisuru{
+    margin:4% 13%;
+    border: solid 2px white;
+    padding-left: 2%;
+    width: 25%;
+    height: 30%;
+
+  
+}
+.kilimani{
+    margin-left: -11%;
+    border: solid 2px white;
+    width: 28%;
+    padding-left:2% ;
+    height: 36%;
+    margin-top: 4%;
+ 
+}
