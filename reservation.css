@@ -29,6 +29,13 @@ font-size: 55px;
     font-size: 80px;
   
 }
+
+#location{
+    background-color: black;
+    width:90% ;
+    height: 59px;
+    color: white;
+}
 label{
     color: white;
 } 

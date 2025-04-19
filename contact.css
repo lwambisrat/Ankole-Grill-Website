@@ -10,7 +10,7 @@ body{
     display: flex;
     margin-left: 15%;
     margin-top: 2%;
-    line-height: 40px;
+    line-height: 35px;
     color: white;
     
 }
@@ -27,7 +27,7 @@ body{
     color: rgb(88, 88, 88);
 }
 .navigate{
-  margin-top: 5%;
+ margin-top: 3%; 
 margin-left: 29%;
 background-color:  black;
  height: 60px;
@@ -82,7 +82,7 @@ padding-top: 2%;
     border: solid 2px white;
     width: 28%;
     padding-left:2% ;
-    height: 36%;
+    height: 33%;
     margin-top: 4%;
  
 }
