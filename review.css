@@ -124,33 +124,49 @@ body{
     text-align:right;
     color: rgb(88, 88, 88);
 }
+  @media only screen and (max-width: 430px) {
     
-
-
-
-
-
-
-
-
-
-  @media only screen and (max-width: 300px) {
-    .left-arrow,
-    .right-arrow {
-      font-size: 11px
+    .review h1{
+      font-size: 40px;
     }
-  }
-  .review {
-    animation-name: flow;
-    animation-duration: 1.5s;
-  }
-  @keyframes review {
-    from {
-      opacity: .4
+    .icons{
+    margin-left: 77%;
     }
-    to {
-      opacity: 1
-    }
-  }
+    .horn img{
+      height: 250px;
+      width: 100px;
   
-
+    }
+    .review {
+      width: 90%;
+      margin-top: -29%;
+  }
+  #left-icon {
+    font-size: 50px;
+    right: 81%;
+    top: 70vh;
+  }
+  #right-icon{
+    font-size: 50px;
+    left: 75%;
+    bottom: 25%;
+}
+.navigate{
+ margin-top: 2.3%;
+  margin-left:1% ; 
+  font-size: 60%;
+  padding-left: 0;
+  padding-top: 30px;
+  width: 90%;  
+}
+#reserve{
+  margin-left: 40%;
+  margin-top: 50%;
+  padding-top: 0.1%;
+}
+#icon-bottom{
+  font-size: 20px;
+  margin-top: 29%;
+  margin-left: 89%;
+}
+}

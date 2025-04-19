@@ -229,7 +229,6 @@ margin-top: 9%;
         font-size: 150%;
     }
     .navigate{
-        display: flex;
        margin-left: 1%;
         width: 20%;
         height: 7%;
@@ -237,11 +236,8 @@ margin-top: 9%;
          padding-left: 2%; 
         border-radius: 9cqb;
         margin-top: 129%;
-        position:relative;
-        
     }
     nav a{
-        text-decoration: none;
         font-size: 100%;
         color: white;
         margin: 0.01%;

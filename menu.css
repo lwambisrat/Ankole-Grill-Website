@@ -109,8 +109,6 @@ overflow: hidden;
 @media only screen and (max-width:430px){
 
 .discover{
-    
-    background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(https://cdn.prod.website-files.com/65aa1f78e2380ad0548de50d/65e5a29a2a2b1c4a493fff75_ankolegrill_Kilimani-Nights.jpg);
     width: 50%;
     background-repeat: no-repeat; 
     background-size: cover; 
@@ -119,7 +117,6 @@ overflow: hidden;
 .karibu{
     width:50%;
     height: 100vh;
-    background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(https://cdn.prod.website-files.com/65aa1f78e2380ad0548de50d/65c34fee7c31fcb2f8c3700b_001-p-2000.jpg);
 }
 
 .menu h3{
@@ -144,7 +141,6 @@ overflow: hidden;
 
 .icon-top{
     font-size: 25px;
-    position: absolute;
      margin-top: 2%; 
     margin-left: 30%;
     
@@ -160,11 +156,9 @@ overflow: hidden;
 }
 
 .navigate{
-    position: absolute;
     margin-top: 177%;
     margin-left:2% ;
     font-size: 60%;
-    background-color: black;
     padding-left:0;
     padding-top: 30px;
     border-radius: 9cqb ;
@@ -174,7 +168,6 @@ overflow: hidden;
 }
 #reserve{
     margin-left: 46%;
-    background-color: gray;
     border-radius: 9cqb;
    padding: 1% 1%;
  
