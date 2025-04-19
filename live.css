@@ -129,3 +129,78 @@ font-size: 125%;
     width: 100vh;
     position: absolute;
 }
+@media only screen and (max-width:430px){
+    nav{
+        margin-top: 169%; 
+        margin-left: -1%;
+        background-color:  black;
+        height: 50px;
+        width: 90%;
+    font-size: 75%;
+    border-radius: 55px;
+    position:absolute;
+    position: fixed;
+    padding-top: 4%;
+    padding-left: 0%;
+    display: flex;
+    justify-content: space-between;
+    
+    } 
+    nav a{
+        text-decoration: none;
+        color: white;
+        height: 30px;
+        margin: 1%;
+    }
+    #reserve{
+        border-radius: 9cqb;
+        height: 30px;
+        width: 80px;
+        background-color: gray;
+        margin-top: -1.5%;
+        padding-top: 2.9%;
+        padding-left: 0.1%;
+    }
+
+    .live{
+        display: flex;
+        gap:1%;
+    }
+
+     .tukatiku h1{
+        color: red;
+        margin-left: 10%;
+        font-size: 200%;
+        position: fixed;
+        margin-top: 85%;
+        
+        
+        
+        }
+        .tukatiku p{
+             margin-top: 77%; 
+             margin-left: 10%; 
+            font-size: 150%;
+            color: white;
+            position: fixed;
+        }
+        
+        
+        #acoustic{
+            width: 110%;
+             height: 29vh;
+             margin-top: 3%;
+             margin-left: 12%;
+             
+        }
+
+        .open h3{
+            margin-left: 15%;
+          
+
+
+        }
+        .open p{
+            margin-left: 15%;
+        }
+}
