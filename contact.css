@@ -77,6 +77,10 @@ padding-top: 2%;
 
   
 }
+.kitisuru a{
+    text-decoration: none;
+    color: white;
+}
 .kilimani{
     margin-left: -11%;
     border: solid 2px white;
@@ -85,4 +89,8 @@ padding-top: 2%;
     height: 33%;
     margin-top: 4%;
  
+}
+.kilimani a {
+    text-decoration: none;
+    color: white;
 }
