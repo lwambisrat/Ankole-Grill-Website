@@ -1,10 +1,7 @@
 body{
-    background-image: url(image/drum.webp);
-    /* background-repeat: repeat-y; */
+    background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(image/drum.webp);
     background-size: cover;
     height: 100vh;
-   
-     /* overflow: hidden;  */
 }
 
 nav{
@@ -82,7 +79,7 @@ margin-top: 10%;
 .tukatiku p{
      margin-top: 7%; 
      margin-left: 17%; 
-    font-size: 180%;
+    font-size: 190%;
     color: white;
     position: fixed;
 }
@@ -123,7 +120,7 @@ font-size: 125%;
     position: absolute;
     margin-left: 19%;
     margin-top: -30%;
-    color: white;
+    color: rgb(88, 88, 88);
      position: fixed; 
 }
 .continue-live{

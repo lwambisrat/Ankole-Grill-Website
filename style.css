@@ -9,7 +9,6 @@ body{
     gap:29%;
   position: fixed;
      position: absolute;
-    color:white;
     margin-left: 95%;
     margin-top: -31%;
  
@@ -17,7 +16,7 @@ body{
 }
 .icon-top a{
     text-decoration: none;
-    color: white;
+    color: rgb(88, 88, 88);
 }
 
 #horn{
@@ -35,7 +34,7 @@ font-size: 690%;
 
 }
 #icon-bottom{
-    color:white;
+    color:rgb(41, 35, 35);
     position: fixed;
     margin-left: 23%;
    font-size: 290%;
@@ -153,4 +152,42 @@ justify-content: space-between;
     100% {
         opacity: 0;
     }
+}
+@media only screen and (max-width:430){
+    .icon-top{
+        font-size: 20px; 
+        display: flex;
+        gap:10%;
+      position: fixed;
+         position: absolute;
+        margin-left: 95%;
+        margin-top: -31%;
+     
+          
+    }
+    .icon-top a{
+        text-decoration: none;
+        color: rgb(88, 88, 88);
+    }
+    
+
+
+    .container h1{
+        text-align: center;
+        margin-top: 19%;
+        color: gray;
+        font-size:80%;
+    }
+    #horn{
+        margin-top: -30%;
+        margin-left: 43%;
+        position:absolute;
+        width: 100%;
+    
+    }
+    #title{
+        color: white;
+        margin:0 42% 0 40%;
+    font-size: 690%; 
+}
 }

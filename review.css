@@ -13,7 +13,7 @@ body{
 } 
 .icons a{
     text-decoration: none;
-    color: white;
+    color: rgb(88, 88, 88);
 }
 .reviews {
     background-color: black;
@@ -83,14 +83,6 @@ body{
     width: 13%;
 }
     
-  /* .social-media {
-    color: rgb(100, 96, 96);
-    margin-top: 5%;
-    margin-left: 90%;
-    position: fixed;
-    font-size: 200%;
-  } */
-
   .navigate{
     position: absolute;
    margin-top: 2.3%;
@@ -128,7 +120,7 @@ body{
    margin-top: 4%; 
     font-size: 50px;
     text-align:right;
-   color:white;
+    color: rgb(88, 88, 88);
 }
     
 

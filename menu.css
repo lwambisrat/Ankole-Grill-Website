@@ -47,7 +47,7 @@ overflow: hidden;
     margin-top: 44%;
     font-size: 50px;
     text-align:right;
-   color: white;
+    color: rgb(88, 88, 88);
 }
 .icon-top{
     font-size: 25px;
@@ -59,7 +59,7 @@ overflow: hidden;
    
 }
 .icon-top a{
-color: white;
+    color: rgb(88, 88, 88);
 }
 .navigate{
     position: absolute;
@@ -78,6 +78,7 @@ color: white;
     background-color: gray;
     border-radius: 9cqb;
    padding: 2% 2%;
+
 }
 #reserve:hover{
     background-color: white;
@@ -94,7 +95,7 @@ color: white;
 }
 
 .navigate a:hover{
-    background-color: rgb(19, 16, 16);
+    background-color: gray;
 
 }
 #menu-link{

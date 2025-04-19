@@ -34,7 +34,7 @@ font-size: 22px;
   
 .icon-top a{
     text-decoration: none;
-    color: white;
+    color: rgb(88, 88, 88);
 
   } 
    
@@ -92,7 +92,7 @@ nav{
     color: black;
 }
 #icon-bottom{
-    color:white;
+    color: rgb(88, 88, 88);
     position: fixed;
     margin-left: 62%;
    font-size: 250%;

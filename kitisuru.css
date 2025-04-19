@@ -10,7 +10,7 @@ overflow-x: hidden;
     
 }
 .image{
-    background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(https://cdn.prod.website-files.com/65aa1f78e2380ad0548de50d/65c4760165c03d467b650bcb_1.jpg);
+    background-image:linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)), url(https://cdn.prod.website-files.com/65aa1f78e2380ad0548de50d/65c4760165c03d467b650bcb_1.jpg);
      background-size: cover;
     text-align: center;
    height: 100vh;
@@ -21,6 +21,7 @@ overflow-x: hidden;
     
 }
 .lists{
+  
     margin-top: 15px;
 }
 #horn{
@@ -42,40 +43,42 @@ overflow-x: hidden;
 .navigate{
   display: flex;
  background-color: black;
-    margin-left: 9%;
-    width: 95%;
+    text-align: center;
+    margin-left: 7%;
+    width: 90%;
     height: 7%;
     padding-top: 4%; 
-    padding-left: 3%; 
+     padding-left: 2%; 
     border-radius: 9cqb;
-    margin-top: 30%; 
-   
+    margin-top: 29%;
+    
 }
 nav a{
     text-decoration: none;
-    font-size: 110%;
+    font-size: 100%;
     color: white;
-    margin: 1.3%;
- 
     
 }
 #reserve{
+    background-color: gray;
     border-radius: 9cqb;
-    margin-left: 100%; 
-   background-color: gray;
-   padding:2.5% 3%;
-   margin-bottom: -4%;
+    margin-top: -1%; 
+    padding-top: 2%;
+    padding-bottom: 2%; 
+   
+}
+.navigate a:hover{
+ background-color: gray;
 
-  
+
 }
 #reserve:hover{
     background-color: white;
+    text-decoration: none;
     color: black;
 
 }
-.navigate a:hover{
- background-color: rgb(92, 89, 89);
-}
+
 .menu-list{
     padding-left: 4%;
     background-color: black;
@@ -203,7 +206,7 @@ margin-top: 9%;
 }
 .drinks h2{
     color: brown;
-    margin-top: 20px;
+  
 }
 
 .milk-price{
