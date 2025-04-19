@@ -119,16 +119,19 @@ nav{
             font-size: 22px;
                 margin-left: 9%;
               
-        }
+        }    
         nav{
-            margin-top: 8.5%;
-           margin-left: 9%;
-            width: 40%;
-            height: 60px;
-        font-size: 10%;
+            margin-top: -30%;
+            width: 85%;
+            margin-left: -2px;
+            font-size: 10px;
+        }  
+        #reserve{
+        padding-top: 0%;
+        margin-left: 40%;
+        }  
+        #icon-bottom{
+            margin-left: 33%;
+            margin-top: -1%;
         }
-           
-
-        
-        
 }
