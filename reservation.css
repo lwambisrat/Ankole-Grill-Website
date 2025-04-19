@@ -110,3 +110,42 @@ justify-content: space-between;
    font-size: 270%;
    color: rgb(88, 88, 88);
 }
+@media only screen and (max-width:430px){
+    .reservation{
+        flex-direction: column;
+    }
+    .image{
+        width: 50vh;
+    height: 100vh;
+}
+    
+    #horn{
+        width: 40%;
+        margin-left: 25%;
+    }
+    .image h1{
+        font-size: 40px;
+    }
+
+    .image h2{
+        margin-left: 30%;
+        font-size: 40px;
+        margin-top: 20%;
+    }
+    form{
+        width: 100%;
+        margin-left: 0.1%;
+    }
+    nav{
+        width: 90%;
+        margin-left: 0.1%;
+        margin-top: -20%;
+        font-size: 10px;
+    }
+    #reserve{
+        width: 20%;
+        padding-top: 2cap;
+
+        padding-left: 1;
+    }
+}
