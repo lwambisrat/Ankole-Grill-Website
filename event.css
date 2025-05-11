@@ -7,16 +7,17 @@
   
 }
 #horn{ 
+    margin-top: 2%;
   position: absolute;
-  width: 15%;
-   margin-left: -9%; 
+  width: 10%;
+   margin-left: -5%; 
 
 }
 .container h4{
     color: rgb(245, 131, 131);
 }
 .container h5{
-    margin-top: 60%;
+    margin-top: 39%;
     color: gray;
     font-size: 20px;
 }
@@ -47,11 +48,17 @@ font-size: 22px;
 
 
 }
+.accra h5{
+    margin-top: 43%;
+}
 .nairobi{
     background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(image/nairobi.jpg);
 width: 75vh;
 background-repeat: no-repeat;
 
+}
+.nairobi h5{
+    margin-top: 50%;
 }
 .zanzibar{
     background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(image/zanzibar.jpg);
@@ -80,12 +87,14 @@ nav{
     margin: 2%;
 }
 #reserve{
+
   background-color: gray;
   border-radius: 9cqb;
-  padding: 2% 3% 3%;
+  padding: 2% 2% 3%;
 }
 .navigate a:hover{
-    background-color: rgb(105, 100, 100);}
+color: gray;
+}
 
 #reserve:hover{
     background-color: white;
@@ -94,7 +103,7 @@ nav{
 #icon-bottom{
     color: rgb(88, 88, 88);
     position: fixed;
-    margin-left: 62%;
+    margin-left: 25%;
    font-size: 250%;
 }
 @media only screen and (max-width:430px){
@@ -111,19 +120,26 @@ nav{
           margin-top: 190%;
           font-size: 10px;
       }
+      .nairobi h5{
+        margin-top: 215%;
+
+      }
+      .zanzibar h5{
+        margin-top: 165%;
+      }
       .container h1{
           font-size: 30px;
         }
 
         .icon-top{
             font-size: 22px;
-                margin-left: 9%;
+                margin-left: 50%;
               
         }    
         nav{
             margin-top: -30%;
             width: 85%;
-            margin-left: -2px;
+            margin-left: 3px;
             font-size: 10px;
         }  
         #reserve{
@@ -131,7 +147,33 @@ nav{
         margin-left: 40%;
         }  
         #icon-bottom{
-            margin-left: 33%;
-            margin-top: -1%;
+            margin-left: 30%;
+            margin-top: 13%;
         }
+}
+@media screen and (min-width:431px) and (max-width:810px){
+  
+    .accra h5{
+        margin-top: 82%;
+    }
+    .nairobi h5{
+        margin-top: 65%;
+    }
+    .zanzibar h5{
+        margin-top: 28%;
+    }
+    nav{
+        width: 80%;
+        margin-left: 2%;
+        font-size: 10px;
+        padding-top: 3.5%;
+        margin-top: -15%;
+    }
+    .icon-top{
+        margin-left: 52%;
+    }
+    #icon-bottom{
+        margin-top: -40px;
+        margin-left: 5%;
+    }
 }

@@ -1,7 +1,7 @@
 
 body{
     overflow: hidden;
-    background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(image/house.avif);
+    background-image: url(image/house.avif);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -48,7 +48,7 @@ padding-top: 2%;
         margin: 2%;
     }
 .navigate a:hover{
-        background-color:gray;
+        color:gray;
         
     }
 #reserve{
@@ -93,4 +93,91 @@ padding-top: 2%;
 .kilimani a {
     text-decoration: none;
     color: white;
+}
+@media only screen and (max-width:430px){
+    .container{
+        margin-left: 10%;
+        margin-top: 2%;
+        line-height: 10px;
+        
+    } 
+    
+    .icon-top{
+        margin-top: 10px;
+          margin-left: 75%; 
+        }
+
+        #horn{
+            width: 30%;
+            margin-left: 35%;
+        }
+
+        .kitisuru{
+            margin-top: 39%;
+            width: 40%;
+            margin-left: -8%;
+            font-size: 10px;
+        }
+        .kilimani{
+            margin-top: 39%;
+            width: 50%;
+            font-size:10px ;
+        }
+    .navigate{
+        padding-top: 0.5%;
+        margin-top:69%;
+        margin-left: 40px;
+        width: 80%;
+        font-size: 10px;
+    }
+    #reserve{
+        margin-left: 35%;
+       padding-top: 0.1%;
+       padding-bottom: 1%;
+       padding-left: 0.2%;
+       height: 40px;
+    }
+    #icon-bottom{
+        margin-top: 89%;
+        margin-left: 80%;
+        font-size: 40px;
+    }
+}
+@media screen and (min-width:431px) and (max-width:820px){
+    
+    
+    .container{
+        width: 100%;
+    }
+    .kitisuru{
+        width: 40%;
+        height: 50%;
+        margin-left: -12%;
+
+    }
+    .kilimani{
+        width: 40%;
+    }
+    nav{
+        margin-top: 10%;
+        width: 90vw;
+        margin-left: -72%;
+        font-size: 10px;
+        
+    }
+    #reserve{
+        margin-left: -2%;
+        padding-left: 2%;
+    }
+    .icon-top{
+        margin-left: 72%;
+    }
+    #horn{
+        width: 30%;
+        margin-left: 32%;
+    }
+    #icon-bottom{
+        margin-left: 87%;
+        margin-top: 10%;
+    }
 }
