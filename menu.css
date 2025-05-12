@@ -1,8 +1,10 @@
 
 .menu{
+    height: 98.5vh;
     display: flex;
     font-size: 120%;
 overflow: hidden;
+width: 100%;
 }
 #horn{
    width: 12%;
@@ -20,7 +22,7 @@ overflow: hidden;
 }
 .karibu{
     width:1000px;
-    height: 950px;
+    /* height: 950px; */
     background-image: linear-gradient(rgba(17,18,18,0.5),rgba(0,0,0,0.8)),url(https://cdn.prod.website-files.com/65aa1f78e2380ad0548de50d/65c34fee7c31fcb2f8c3700b_001-p-2000.jpg);
 }
 .menu h3{

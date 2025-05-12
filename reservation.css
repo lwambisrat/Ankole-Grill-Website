@@ -1,5 +1,6 @@
 body{
     overflow: hidden;
+
 }
 .reservation{
     display: flex;
@@ -44,7 +45,7 @@ form{
     height: 100vh;
     margin-left: -1%; 
     line-height: 40px;
-   width: 105vh;
+   width: 86vh;
    padding-left: 6%;
 }
 input{

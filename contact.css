@@ -1,7 +1,7 @@
 
 body{
     overflow: hidden;
-    background-image: url(image/house.avif);
+    background-image: url(image/night.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -27,14 +27,15 @@ body{
     color: rgb(88, 88, 88);
 }
 .navigate{
- margin-top: 3%; 
+ margin-top: 4%; 
 margin-left: 29%;
 background-color:  black;
- height: 60px;
-width: 40%;
+ height: 50px;
+ padding-left: 1%;
+width: 38%;
 border-radius: 55px;
 position: fixed;
-padding-top: 2%;
+padding-top: 1.5%;
 
  }
  #horn{
@@ -54,7 +55,7 @@ padding-top: 2%;
 #reserve{
         border-radius: 9cqb;
      background-color: gray;
-     padding:3% 3% 2.5% 3%;
+     padding:2.5% 2.5% 2.5% 3%;
      
      
     }

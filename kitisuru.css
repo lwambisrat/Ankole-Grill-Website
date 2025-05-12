@@ -1,6 +1,6 @@
 
 body{
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 .container{
     display: flex;
@@ -23,6 +23,10 @@ overflow-x: hidden;
 .lists{
   
     margin-top: 15px;
+}
+.lists a:hover{
+    color: rgb(245, 245, 10);
+
 }
 #horn{
     width: 210px; 
@@ -132,7 +136,8 @@ nav a{
     
 }
 .food-type{
-    margin-left:-43%;
+    margin-top: 1%;
+    margin-left:-40%;
     line-height: 140%;
 
 
@@ -191,7 +196,7 @@ nav a{
     color: brown;
 }
 .salad-type{
-margin-left: -30%;
+margin-left: -28%;
 margin-top: 8%;
  line-height: 190%; 
  
