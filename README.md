@@ -3,10 +3,10 @@ A professional website for Ankole Grill Kenya, Showcasing thier authentic Africa
 menu, events, live program, and booking system.
 
 Table of Contents
--About
--Features
--Installation
--Usage
+#-About
+#-Features
+#-Installation
+#-Usage
 
 
 # About
