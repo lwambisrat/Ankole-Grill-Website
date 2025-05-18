@@ -39,27 +39,42 @@ African cuisine. This website serves as a digital platform to:
 # Installation
 
   - git clone git@github.com:lwambisrat/Ankole-Grill-Website.git
+
    -cd Ankole-Grill-Website
+
    -touch index.html, ankole-homepage.css, ankole-menu.html...etc
+   
    -code .
 
 # Usage 
 
 -visit https://lwambisrat.github.io/Ankole-Grill-Website/
+
 -Browse menu items or search by catagory
+
 -Select branch location for reservations/orders
+
 -Complete payments via integrated gateway
+
 -Track orders via confirmation emails/SMS
 
 # Technologies
+
 -html
+
 -css
+
 -JavaScript
 
 # Contact
 -Ankole-Grill-Kenya
+
 -+254 700 123 456
+
 -Live Website
+
 -Facebook
+
 -Instagram
+
 -Whats Up
