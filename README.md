@@ -38,10 +38,10 @@ African cuisine. This website serves as a digital platform to:
 
 # Installation
 
-   git clone git@github.com:lwambisrat/Ankole-Grill-Website.git
-   cd Ankole-Grill-Website
-   touch index.html, ankole-homepage.css, ankole-menu.html...etc
-   code .
+  - git clone git@github.com:lwambisrat/Ankole-Grill-Website.git
+   -cd Ankole-Grill-Website
+   -touch index.html, ankole-homepage.css, ankole-menu.html...etc
+   -code .
 
 # Usage 
 
@@ -57,5 +57,9 @@ African cuisine. This website serves as a digital platform to:
 -JavaScript
 
 # Contact
-Ankole-Grill-Kenya
-+254 700 123 456
+-Ankole-Grill-Kenya
+-+254 700 123 456
+-Live Website
+-Facebook
+-Instagram
+-Whats Up
