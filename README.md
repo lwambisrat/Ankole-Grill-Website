@@ -1,25 +1,22 @@
 # Ankole-Grill-Website
 
 A professional website for Ankole Grill website kenya, showcasing their authentic African cuisine
-,restaurant locations, menu ,events, and online  ordering system.
-
-# Table of Contents
-- About
-- Features
-- Installation
-- Usage
-- Technologies
-- Contact
-
-# About
-
-Ankole Grill Kenya is a premier restaurant chain specializing in premium Ankole beef and East 
+,restaurant locations, menu ,events, and online  ordering system.Ankole Grill Kenya is a premier restaurant chain specializing in premium Ankole beef and East 
 African cuisine. This website serves as a digital platform to:
 - Display menus and promotions
 - Enable online reservations and orders
 - Highlight restaurant locations across Kenya
 - Share event hosting opportunities
 - Provide customer support and feedback channels
+
+
+# Table of Contents
+
+- Features
+- Installation
+- Usage
+- Technologies
+- Contact
 
 # Features
 1 Interactive Menu
@@ -40,41 +37,41 @@ African cuisine. This website serves as a digital platform to:
 
   - git clone git@github.com:lwambisrat/Ankole-Grill-Website.git
 
-   -cd Ankole-Grill-Website
+ - cd Ankole-Grill-Website
 
-   -touch index.html, ankole-homepage.css, ankole-menu.html...etc
+ - touch index.html, ankole-homepage.css, ankole-menu.html...etc
    
-   -code .
+- code .
 
 # Usage 
 
--visit https://lwambisrat.github.io/Ankole-Grill-Website/
+- visit https://lwambisrat.github.io/Ankole-Grill-Website/
 
--Browse menu items or search by catagory
+- Browse menu items or search by catagory
 
--Select branch location for reservations/orders
+- Select branch location for reservations/orders
 
--Complete payments via integrated gateway
+- Complete payments via integrated gateway
 
--Track orders via confirmation emails/SMS
+- Track orders via confirmation emails/SMS
 
 # Technologies
 
--html
+- html
 
--css
+- css
 
--JavaScript
+- JavaScript
 
 # Contact
--Ankole-Grill-Kenya
+- Ankole-Grill-Kenya
 
--+254 700 123 456
+- +254 700 123 456
 
--Live Website
+- Live Website
 
--Facebook
+- Facebook
 
--Instagram
+- Instagram
 
--Whats Up
+- Whats Up
